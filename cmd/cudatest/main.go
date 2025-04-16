@@ -3,10 +3,10 @@ package main
 
 import (
 	"fmt"
-
-	"gorgonia.org/cu"
 	"os"
+
 	"github.com/cloudflare/cfssl/log"
+	"gorgonia.org/cu"
 )
 
 func main() {
